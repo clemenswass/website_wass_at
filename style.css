@@ -45,3 +45,6 @@ dialog{width:min(760px,calc(100vw - 24px));max-height:calc(100svh - 24px);overfl
 @media(max-width:780px){body{font-size:17px}.wrap{width:min(calc(100% - 30px),var(--max))}.hero-grid{grid-template-columns:1fr;padding-block:120px 60px}.hero h1{font-size:clamp(4.4rem,23vw,7rem)}.hero-profiles{margin-top:1rem}.person-grid,.reverse-grid,.split-heading,.two-column,.publication-header,.openlaws-grid{grid-template-columns:1fr;gap:2rem}.reverse-grid .person-main{order:2}.reverse-grid .person-aside{order:1}.portrait{width:min(100%,360px);margin-inline:auto}.fact-grid,.timeline,.role-list,.metric-row,.openlaws-model{grid-template-columns:1fr}.card-grid.three,.contribution-grid,.values-grid{grid-template-columns:1fr}.section{padding:75px 0}.publications article{grid-template-columns:1fr;gap:.4rem}.footer-grid{grid-template-columns:1fr}.legal-links{grid-column:auto;display:block}.hero-orbit{opacity:.55}}
 @media(max-width:480px){.hero-profile{grid-template-columns:64px 1fr;padding:1rem}.profile-monogram{width:60px}.fact-grid{grid-template-columns:1fr}.button-row{display:grid}.button{width:100%}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important}.js .reveal{opacity:1;transform:none}}
+
+/* Fail-safe: content remains visible if JavaScript is delayed or blocked */
+.js .reveal{opacity:1;transform:none}
