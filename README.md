@@ -1,8 +1,4 @@
-# website_wass_at v3
+# website_wass_at v4
+Montserrat + Karla, bilingual, responsive, self-hosted fonts, animated knowledge graph, legal modals.
 
-Cache-safe, responsive and bilingual static website.
-
-## Upload
-Upload all files and the `assets` folder directly to the repository root. Delete older `style.css` and `app.js` only after confirming the new version is live.
-
-GitHub Pages: `main` / `(root)`.
+Upload the contents directly to the repository root. Complete all highlighted legal placeholders before publication and obtain legal review.
