@@ -1,14 +1,8 @@
-# website_wass_at v2
+# website_wass_at v3
 
-Responsive bilingual website for Dr. Romana Wass, PhD and Dr. Clemens Wass, MBL, MBA.
+Cache-safe, responsive and bilingual static website.
 
-## Upload to GitHub Pages
-Upload the contents of this folder directly to the repository root. GitHub Pages source: `main` / `(root)`.
+## Upload
+Upload all files and the `assets` folder directly to the repository root. Delete older `style.css` and `app.js` only after confirming the new version is live.
 
-## Local preview
-```bash
-npm install
-npm run dev
-```
-
-Before publication, complete and legally verify the legal notice, privacy text and contact details.
+GitHub Pages: `main` / `(root)`.
