@@ -1,21 +1,11 @@
-# wass.at - vollständige Website
+# wass.at v8
 
-Enthalten:
+Vollständiges GitHub-Pages-Paket. Form, visuelle Struktur und Profiltrennung bleiben erhalten. Neu sind die vollständige DE/EN-Umschaltung, Untermenüs je Person, ein Textblock statt Kennzahlen im Publikationsbereich von Dr. Romana Wass, PhD sowie der vertikale WASS-Prozess.
 
-- `index.html`
-- `style.css`
-- `app.js`
+## Upload
 
-## Bereitstellung
+Alle Dateien aus diesem ZIP in das Root-Verzeichnis des Repositorys hochladen und vorhandene Dateien ersetzen. Der bestehende Ordner `assets` im Repository bleibt unverändert bestehen und wird weiterverwendet.
 
-Die drei Dateien in das Root-Verzeichnis des GitHub-Pages-Repositories kopieren. Die bereits vorhandenen lokalen Schriftdateien können unverändert im Root-Verzeichnis bleiben.
+## Vor Veröffentlichung
 
-## Vor Veröffentlichung prüfen
-
-1. Vollständige Angaben im Impressum ergänzen.
-2. Datenschutzerklärung an Hosting, Domain und eingesetzte Dienste anpassen.
-3. Berufsrechtliche Angaben prüfen.
-4. Platzhalterporträts durch freigegebene Bilder ersetzen, falls gewünscht.
-5. Angaben zu Lebenslauf und Publikationen redaktionell freigeben.
-
-Die Publikationen und Beiträge von Romana und Clemens sind bewusst getrennt aufgebaut.
+Impressum und Datenschutzerklärung vervollständigen und rechtlich prüfen.
