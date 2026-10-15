@@ -1,3 +1,3 @@
-# wass.at V8.2
+# wass.at
 
-Modulare Rechtstextseiten. WASS-Prozessicons: Variante 2 (Modern & Elegant).
+Profilfoto eingebunden unter `assets/romana-profile.jpg`.

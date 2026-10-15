@@ -1,1 +1,0 @@
-const b=document.getElementById('legal-lang');let l=localStorage.getItem('wass-lang')==='en'?'en':'de';function a(){document.documentElement.dataset.lang=l;document.documentElement.lang=l;b.textContent=l==='de'?'EN':'DE';localStorage.setItem('wass-lang',l)}b.onclick=()=>{l=l==='de'?'en':'de';a()};a();
